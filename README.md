@@ -10,8 +10,8 @@
 #### Backend: Java
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
-#### Banco de Dados: PostgreSQL
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+#### Banco de Dados:
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 #### DevOps: Git, GitHub
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
