@@ -1,15 +1,15 @@
 # Olá, Me chamo Kelven Leonnanthas, sejam bem vindos ao meu perfil!
 # Linguagens de programação da qual me identifico:
 #### Frontend:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="100" height="100" />
-
+<p align="left">
+           
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="100" height="100" /> 
+           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="100" height="100" />
            
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" widght="100" height="100" />
-          
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40">
+
+</p>
 
 #### Backend: Java
 
