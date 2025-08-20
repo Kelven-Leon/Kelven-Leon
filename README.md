@@ -21,6 +21,6 @@
 
 #### Redes Sociais:
 
-<a href="https://www.linkedin.com/kelven-leonnanthas-4075ab319/">
+<a href="[https://www.linkedin.com/in/URL_DO_SEU_PERFIL](https://www.linkedin.com/in/kelven-leonnanthas-4075ab319/)">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="100" height="100" />
 </a>
