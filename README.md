@@ -1,6 +1,7 @@
-# Olá, Me chamo Kelven Leonnanthas, sejam bem vindos! <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/26869862-866d-4ac0-aebe-ed257ec49b73" />
+# Olá, Me chamo Kelven Leonnanthas, sejam bem vindos! <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/40c932b7-668f-4333-afb0-a539f4e48b01" />
 
-# Linguagens de programação da qual me identifico:<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/26869862-866d-4ac0-aebe-ed257ec49b73" />
+
+# Linguagens de programação da qual me identifico:
 #### Frontend:
 <p align="left">
            
