@@ -1,5 +1,6 @@
-# Olá, Me chamo Kelven Leonnanthas, sejam bem vindos ao meu perfil!
-# Linguagens de programação da qual me identifico:
+# Olá, Me chamo Kelven Leonnanthas, sejam bem vindos! <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/26869862-866d-4ac0-aebe-ed257ec49b73" />
+
+# Linguagens de programação da qual me identifico:<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/26869862-866d-4ac0-aebe-ed257ec49b73" />
 #### Frontend:
 <p align="left">
            
