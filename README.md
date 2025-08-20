@@ -19,6 +19,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="100" height="100"/>
 
-#### DevOps: Git, GitHub
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+#### Redes Sociais:
+
+<a href="https://www.linkedin.com/kelven-leonnanthas-4075ab319/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="100" height="100" />
+</a>
