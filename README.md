@@ -1,5 +1,5 @@
 # Olá, Me chamo Kelven Leonnanthas, sejam bem vindos ao meu perfil!
-# Linguagens de programação da qual me identifico
+# Linguagens de programação da qual me identifico:
 #### Frontend: HTML, CSS, JavaScript, Vue.js, Figma
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
